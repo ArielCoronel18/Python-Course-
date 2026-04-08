@@ -1,0 +1,13 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Configuración de Cursor / VS Code
+.vscode/
+.cursor/
