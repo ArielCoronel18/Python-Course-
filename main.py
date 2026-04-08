@@ -18,4 +18,12 @@ total = 0
 for elemento in [1, 2, 3, 4, 5]:
     total += elemento
     print(total)
+
+# crear una lista de números y sumarlos
+
+numeros = [1, 2, 3, 4, 5]
+total = 0
+for numero in numeros:
+    total += numero
+    print(total)
     
