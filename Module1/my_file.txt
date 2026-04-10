@@ -1,0 +1,6 @@
+Mi nombre es Ariel
+Mi apellido es Coronel
+37 años
+Y mi lenguaje
+favorito es Python
+Aunque tambien me gusta JavaScript
